@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-paypal-donation-btn/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/react-paypal-donation-btn/static/js/main.4e6c644f.chunk.js",
+    "main.js.map": "/react-paypal-donation-btn/static/js/main.4e6c644f.chunk.js.map",
+    "runtime-main.js": "/react-paypal-donation-btn/static/js/runtime-main.e7c9f632.js",
+    "runtime-main.js.map": "/react-paypal-donation-btn/static/js/runtime-main.e7c9f632.js.map",
+    "static/js/2.0d9312e0.chunk.js": "/react-paypal-donation-btn/static/js/2.0d9312e0.chunk.js",
+    "static/js/2.0d9312e0.chunk.js.map": "/react-paypal-donation-btn/static/js/2.0d9312e0.chunk.js.map",
+    "static/js/3.19dc5c3c.chunk.js": "/react-paypal-donation-btn/static/js/3.19dc5c3c.chunk.js",
+    "static/js/3.19dc5c3c.chunk.js.map": "/react-paypal-donation-btn/static/js/3.19dc5c3c.chunk.js.map",
+    "index.html": "/react-paypal-donation-btn/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/react-paypal-donation-btn/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.0d9312e0.chunk.js.LICENSE.txt": "/react-paypal-donation-btn/static/js/2.0d9312e0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7c9f632.js",
+    "static/js/2.0d9312e0.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.4e6c644f.chunk.js"
+  ]
+}
